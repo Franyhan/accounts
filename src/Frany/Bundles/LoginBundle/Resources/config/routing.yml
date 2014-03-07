@@ -1,0 +1,3 @@
+frany_bundles_login_homepage:
+    pattern:  /register
+    defaults: { _controller: FranyBundlesLoginBundle:Login:register }

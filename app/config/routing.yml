@@ -1,0 +1,4 @@
+frany_bundles_login:
+    resource: "@FranyBundlesLoginBundle/Resources/config/routing.yml"
+    prefix:   /
+

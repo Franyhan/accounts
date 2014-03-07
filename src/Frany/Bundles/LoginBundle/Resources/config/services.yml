@@ -1,0 +1,7 @@
+parameters:
+#    frany_bundles_login.example.class: Frany\Bundles\LoginBundle\Example
+
+services:
+#    frany_bundles_login.example:
+#        class: %frany_bundles_login.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
